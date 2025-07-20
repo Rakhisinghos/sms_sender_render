@@ -35,7 +35,7 @@ Chhattisgarh Institute of Technology (CGIT), Jagdalpur"""
         }
 
         headers = {
-            'authorization': "YOUR_FAST2SMS_API_KEY",
+            'authorization': "Y1V9IBkHDEMz08AoWwFlKReU7nZaGiy5qptPLbumNQ63JhOdTsqvnk3WpmGURuftjeElBKrX0QSg2shH",
             'Content-Type': "application/json"
         }
 
